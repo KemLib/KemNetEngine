@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="KemNetEngine/KemNetEngine.csproj" />
+  <Project Path="TestNetEngine/TestNetEngine.csproj" Id="c90639ab-d575-4ea2-9d4d-236eab683684" />
+</Solution>
